@@ -273,3 +273,7 @@
       width: 80vw;
     }
   }
+.icon-wrapper{
+  display:flex;
+  gap:1rem;
+}
