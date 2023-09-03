@@ -199,21 +199,21 @@
     color: #fff;
   }
   
-  #whatsapp {
-    color: #2fe664;
+  #LinkedIn {
+    color:  #124db4;
     border: 1px solid #2fe664;
   }
-  #whatsapp:hover {
-    background-color: #2fe664;
+  #LinkedIn:hover {
+    background-color:  #124db4;
     color: #fff;
   }
   
-  #telegram {
-    color: #0081c2;
+  #github {
+    color: #fff0;
     border: 1px solid #0081c2;
   }
-  #telegram:hover {
-    background-color: #0081c2;
+  #github:hover {
+    background-color: #fff0;
     color: #fff;
   }
   
